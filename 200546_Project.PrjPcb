@@ -170,7 +170,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VPRHBQQZ
 
 [Document8]
-DocumentPath=200546_Project.SCHLIB
+DocumentPath=Hall Effect Symbol Library.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -184,7 +184,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WNFTAVTR
+DocumentUniqueId=
 
 [ProjectVariant1]
 UniqueId=10DE1C39-615B-41BD-B662-C49620E21628
@@ -204,32 +204,32 @@ Name=DNS
 Value=
 
 [Parameter1]
-Name=Sch_Revision
-Value=XA
+Name=Board_Name
+Value=Pendant Hall Effect
 
 [Parameter2]
-Name=Project_Name
-Value=Samantha Morehead
+Name=Board_Number
+Value=100711-00
 
 [Parameter3]
 Name=PCB_Revision
 Value=XA
 
 [Parameter4]
-Name=PCBA_Revision
-Value=XA
-
-[Parameter5]
 Name=PCBA_Number
 Value=100710-00
 
+[Parameter5]
+Name=PCBA_Revision
+Value=XA
+
 [Parameter6]
-Name=Board_Number
-Value=100711-00
+Name=Project_Name
+Value=Samantha Morehead
 
 [Parameter7]
-Name=Board_Name
-Value=Pendant Hall Effect
+Name=Sch_Revision
+Value=XA
 
 [Configuration1]
 Name=Sources
